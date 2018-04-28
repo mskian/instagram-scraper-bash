@@ -10,9 +10,14 @@ Instagram Scraper to Get Post Images &amp; video URL for Download
 
 ## Setup
 
-- Use git to clone & download it via wget
+- Use git to clone or download it via wget
 
 ```
+git clone https://github.com/mskian/instagram-scraper-bash.git
+```
+
+``
+wget https://raw.githubusercontent.com/mskian/instagram-scraper-bash/master/insta.sh
 ```
 
 - Give Permission
